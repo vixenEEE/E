@@ -1,0 +1,3 @@
+# Flört & Szexi Kommunikáció Promptok
+
+1. Írj nekem 8 darab dögös...
