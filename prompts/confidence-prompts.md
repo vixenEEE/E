@@ -1,0 +1,1 @@
+Magabiztosság & Önfejlesztés promptok
