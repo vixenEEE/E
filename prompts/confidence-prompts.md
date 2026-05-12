@@ -1,1 +1,3 @@
-Magabiztosság & Önfejlesztés promptok
+# Magabiztosság Promptok
+
+[full]

@@ -1,1 +1,3 @@
-Tartalom & Brand promptok
+# Tartalom & Brand Promptok
+
+[full]

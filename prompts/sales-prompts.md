@@ -1,1 +1,3 @@
-Itt jönnek a Pénz & Sales promptok...
+# Sales & Pénz Promptok
+
+[full content]
